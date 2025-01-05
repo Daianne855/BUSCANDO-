@@ -1,0 +1,16 @@
+<style type="text/css">
+    .titulo{
+        fonte-size: 3rem; /*tamanho da fonte do titulo*/
+        color: #333; /* esta é a cor do texto*/
+        text-align: center; /* o alinhamento do texto que carregar esta classe*/
+    }
+    #botao-bonito{
+        color:white;/* cor da fonte*/
+        padding-top: 15px;/* espaço superior entre o texto e o elemento*/
+        background-color: green;/* cor verde para o fundo dos elemntos*/
+    }
+    </style>
+    </head>
+    <body>
+       <h1> class="titulo fonte-grande sublinhada"> Melhor site</h1>
+       <a id="botao-bonito" href="link-para-alguma-pagina">clique neste botão</a>
